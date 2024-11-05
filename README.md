@@ -76,6 +76,4 @@ Contributions are welcome! To contribute:
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
 
-This README is formatted in English and styled for GitHub with Markdown for ease of reading and navigation.
